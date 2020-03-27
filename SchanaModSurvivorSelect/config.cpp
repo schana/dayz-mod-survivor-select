@@ -3,9 +3,9 @@ class CfgPatches
 	class SchanaModSurvivorSelect
 	{
 		requiredAddons[] = {
-            "DZ_Data",
-            "DZ_Scripts"
-        };
+			"DZ_Data",
+			"DZ_Scripts"
+		};
 	};
 };
 

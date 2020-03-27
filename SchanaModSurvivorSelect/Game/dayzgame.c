@@ -12,11 +12,11 @@ modded class DayZGame extends CGame
     override void Connect()
     {
         string survivor;
-        if(GetCLIParam("survivor", survivor))
+        if (GetCLIParam("survivor", survivor))
         {
-            for(int i=0; i<m_SchanaSurvivors.Count(); ++i)
+            for (int i = 0; i < m_SchanaSurvivors.Count(); ++i)
             {
-                if(m_SchanaSurvivors.Get(i).Contains(survivor))
+                if (m_SchanaSurvivors.Get(i).Contains(survivor))
                 {
                     SetCharacterInfo(-1, -1, -1, i);
                 }
