@@ -1,0 +1,18 @@
+[h1]SchanaModSurvivorSelect[/h1]
+
+An Open Source DayZ mod that provides the ability for players to select their survivor model as a command line parameter when launching the game.
+
+Simply launch the game with the [code]-survivor={name}[/code] parameter with one of the following names to set your character's model. Example: [code]-survivor=Peter[/code]
+
+[b]Male Models:[/b]
+Boris, Cyril, Denis, Elias, Francis, Guo, Hassan, Indar, Jose, Kaito, Lewis, Manua, Mirek, Niki, Oliver, Peter, Quinn, Rolf, Seth, and Taiki
+
+[b]Female Models:[/b]
+Eva, Frida, Gabi, Helga, Irena, Judy, Keiko, Linda, Maria, and Naomi
+
+You are free to use this mod on your monetized servers. If you repack or use the code in a Derivative Work, you [b]must[/b] include the entire contents of the NOTICE file in a readable place in accordance with the Apache License.
+
+This mod originated from the Carim DayZ project
+The original source is at https://github.com/schana/dayz-mod-survivor-select
+To support this open source project, you can donate at https://paypal.me/cnofafva
+To learn more visit https://discord.gg/kdPnVu4
